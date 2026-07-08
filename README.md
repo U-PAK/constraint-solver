@@ -45,3 +45,8 @@ https://replit.com/
 
 # Ejecutar la simulación
 pega el archivo "sc.py" y ejecutalo
+````
+## Origen del Problema
+
+Este problema matemático fue creado por **Adrián Paenza**.  
+[Ver en Wikipedia](https://es.wikipedia.org/wiki/Adri%C3%A1n_Paenza)
